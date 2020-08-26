@@ -1,0 +1,23 @@
+
+export default {
+  35: 'sounds/drum_kits/nsa/bass_kick.wav',
+  36: 'sounds/drum_kits/nsa/bass_kick.wav',
+  37: 'sounds/drum_kits/nsa/snare_rim.wav',
+  38: 'sounds/drum_kits/nsa/snare_hit.wav',
+  39: 'sounds/drum_kits/nsa/snare_hit.wav',
+  40: 'sounds/drum_kits/nsa/snare_hit.wav',
+  41: 'sounds/drum_kits/nsa/tom_low.wav',
+  42: 'sounds/drum_kits/nsa/hi_hat_closed.wav',
+  43: 'sounds/drum_kits/nsa/tom_low.wav',
+  44: 'sounds/drum_kits/nsa/hi_hat_closed.wav',
+  45: 'sounds/drum_kits/nsa/tom_mid.wav',
+  46: 'sounds/drum_kits/nsa/hi_hat_open.wav',
+  47: 'sounds/drum_kits/nsa/tom_mid.wav',
+  48: 'sounds/drum_kits/nsa/tom_high.wav',
+  49: 'sounds/drum_kits/nsa/cymbol_crash_1.wav',
+  50: 'sounds/drum_kits/nsa/tom_high.wav',
+  51: 'sounds/drum_kits/nsa/cymbol_ride.wav',
+  55: 'sounds/drum_kits/nsa/cymbol_crash_2.wav',
+  57: 'sounds/drum_kits/nsa/cymbol_crash_2.wav',
+  59: 'sounds/drum_kits/nsa/cymbol_ride.wav',
+};
